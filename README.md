@@ -1,4 +1,3 @@
- console.log('2+2')
+ console.log(2+2)
 
-
-hi as you can see from this im a google devleoper 
+and it prints 4 i know im soooo good at coding google please give me a job
